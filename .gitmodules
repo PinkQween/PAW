@@ -1,0 +1,3 @@
+[submodule "resolver"]
+	path = resolver
+	url = git@github.com:PinkQween/PAW-resolver.git
